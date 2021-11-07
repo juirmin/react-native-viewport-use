@@ -1,0 +1,28 @@
+{
+  "name": "react-native-viewport-use",
+  "version": "1.0.0",
+  "description": "use vh vw in stylesheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juirmin/react-native-viewport-use.git"
+  },
+  "keywords": [
+    "react-native",
+    "|",
+    "vw",
+    "|",
+    "vh",
+    "|",
+    "stylesheet"
+  ],
+  "author": "Hsuan-Chih,Ku <C108156120@nkust.edu.tw>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juirmin/react-native-viewport-use/issues"
+  },
+  "homepage": "https://github.com/juirmin/react-native-viewport-use#readme"
+}
